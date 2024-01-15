@@ -1,0 +1,31 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../CPU.srcs/sources_1/new/A.v" \
+"../../../../CPU.srcs/sources_1/new/ALU.v" \
+"../../../../CPU.srcs/sources_1/new/ALUOut.v" \
+"../../../../CPU.srcs/sources_1/new/B.v" \
+"../../../../CPU.srcs/sources_1/new/CPU.v" \
+"../../../../CPU.srcs/sources_1/new/Ctrl.v" \
+"../../../../CPU.srcs/sources_1/new/D.v" \
+"../../../../CPU.srcs/sources_1/new/DM.v" \
+"../../../../CPU.srcs/sources_1/new/DR.v" \
+"../../../../CPU.srcs/sources_1/new/EXT.v" \
+"../../../../CPU.srcs/sources_1/new/Flopr.v" \
+"../../../../CPU.srcs/sources_1/new/IM.v" \
+"../../../../CPU.srcs/sources_1/new/IR.v" \
+"../../../../CPU.srcs/sources_1/new/NPC.v" \
+"../../../../CPU.srcs/sources_1/new/PC.v" \
+"../../../../CPU.srcs/sources_1/new/RF.v" \
+"../../../../CPU.srcs/sources_1/new/mux.v" \
+"../../../../CPU.srcs/sources_1/new/muxData.v" \
+"../../../../CPU.srcs/sources_1/new/muxDes.v" \
+"../../../../CPU.srcs/sources_1/new/muxSource.v" \
+"../../../../CPU.srcs/sources_1/new/next_state.v" \
+"../../../../CPU.srcs/sources_1/new/signal_out.v" \
+"../../../../CPU.srcs/sim_1/new/cpu_sim.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

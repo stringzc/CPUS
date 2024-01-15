@@ -1,0 +1,46 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/¡ı–¿ﬁ»/Desktop/CPU/CPU/CPU/CPU.srcs/sources_1/new/A.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module A
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/¡ı–¿ﬁ»/Desktop/CPU/CPU/CPU/CPU.srcs/sources_1/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/¡ı–¿ﬁ»/Desktop/CPU/CPU/CPU/CPU.srcs/sources_1/new/ALUOut.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALUOut
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/¡ı–¿ﬁ»/Desktop/CPU/CPU/CPU/CPU.srcs/sources_1/new/B.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module B
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/¡ı–¿ﬁ»/Desktop/CPU/CPU/CPU/CPU.srcs/sources_1/new/CPU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CPU
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/¡ı–¿ﬁ»/Desktop/CPU/CPU/CPU/CPU.srcs/sources_1/new/Ctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Ctrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/¡ı–¿ﬁ»/Desktop/CPU/CPU/CPU/CPU.srcs/sources_1/new/D.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module D
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/¡ı–¿ﬁ»/Desktop/CPU/CPU/CPU/CPU.srcs/sources_1/new/DM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DM
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/¡ı–¿ﬁ»/Desktop/CPU/CPU/CPU/CPU.srcs/sources_1/new/DR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DR
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/¡ı–¿ﬁ»/Desktop/CPU/CPU/CPU/CPU.srcs/sources_1/new/EXT.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EXT
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/¡ı–¿ﬁ»/Desktop/CPU/CPU/CPU/CPU.srcs/sources_1/new/Flopr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Flopr
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/¡ı–¿ﬁ»/Desktop/CPU/CPU/CPU/CPU.srcs/sources_1/new/IM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IM
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/¡ı–¿ﬁ»/Desktop/CPU/CPU/CPU/CPU.srcs/sources_1/new/IR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IR
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/¡ı–¿ﬁ»/Desktop/CPU/CPU/CPU/CPU.srcs/sources_1/new/NPC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module NPC
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/¡ı–¿ﬁ»/Desktop/CPU/CPU/CPU/CPU.srcs/sources_1/new/PC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/¡ı–¿ﬁ»/Desktop/CPU/CPU/CPU/CPU.srcs/sources_1/new/RF.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RF
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/¡ı–¿ﬁ»/Desktop/CPU/CPU/CPU/CPU.srcs/sources_1/new/mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/¡ı–¿ﬁ»/Desktop/CPU/CPU/CPU/CPU.srcs/sources_1/new/muxData.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module muxData
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/¡ı–¿ﬁ»/Desktop/CPU/CPU/CPU/CPU.srcs/sources_1/new/muxDes.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module muxDes
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/¡ı–¿ﬁ»/Desktop/CPU/CPU/CPU/CPU.srcs/sources_1/new/muxSource.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module muxSource
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/¡ı–¿ﬁ»/Desktop/CPU/CPU/CPU/CPU.srcs/sources_1/new/next_state.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module next_state
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/¡ı–¿ﬁ»/Desktop/CPU/CPU/CPU/CPU.srcs/sources_1/new/signal_out.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module signal_out
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/¡ı–¿ﬁ»/Desktop/CPU/CPU/CPU/CPU.srcs/sim_1/new/cpu_sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cpu_sim
